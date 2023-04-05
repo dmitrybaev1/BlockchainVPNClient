@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="cardCornerRadius">8dp</dimen>
+    <dimen name="cardViewMarginMain">10dp</dimen>
+    <dimen name="bottomSheetCornerRadius">10dp</dimen>
+</resources>
